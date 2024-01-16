@@ -6,3 +6,4 @@
 !.gitmodules
 !*.PcbLib
 !*.SchLib
+!*.LibPkg
