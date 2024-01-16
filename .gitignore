@@ -1,0 +1,8 @@
+# Ignorar todo
+*
+
+# No ignores los archivos:
+!.gitignore
+!.gitmodules
+!*.PcbLib
+!*.SchLib
